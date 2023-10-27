@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Javier García Pérez</h1>
-<h3 align="center">soy un Backend apasionado de Madrid</h3>
+<h3 align="center">soy un Backend apasionado en Madrid</h3>
 
 - 💬 Pregúntame sobre **JAVA, SPRING BOOT , SQL, ORACLE, JAVASCRIPT, HTML, CSS**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left" >
-<a href="https://linkedin.com/in/www.linkedin.com/in/javier-garcia-perez-b4196372" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/javier-garcia -perez-b4196372" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/javier-garcia-perez-b4196372" target="blank"><img align="center" src="https://raw.githubusercontent.com/ rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-garcia-perez-b4196372" height="30" width="40" / ></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
