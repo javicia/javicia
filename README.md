@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javier García Pérez</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kw214/kw214/main/Hi.gif" width="30">, I'm Javier García Pérez</h1>
 <h3 align="center">I´m a passionate Mobile Developer in Madrid</h3>
 
 - 💬 Ask me about **SWIFT, KOTLIN, JAVA, JAVASCRIPT, HTML, CSS**
