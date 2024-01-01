@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier García Pérez</h1>
-<h3 align="center">Soy un Android Mobile Developer apasionado en Madrid</h3>
+<h3 align="center">I´m a passionate Android Mobile Developer in Madrid</h3>
 
 - 💬 Ask me about **KOTLIN, ANDROID STUDIO, JAVA, SPRING BOOT, MYSQL, ORACLE, JAVASCRIPT, HTML, CSS**
 
