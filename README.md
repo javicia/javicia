@@ -2,7 +2,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Java y sus Frameworks -->
-<h4>Java y sus Frameworks</h4>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a>
@@ -11,7 +10,6 @@
 </a>
 
 <!-- IDEs -->
-<h4>IDEs</h4>
 <a href="https://eclipse.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse" width="40" height="40"/> 
 </a>
@@ -20,7 +18,6 @@
 </a>
 
 <!-- Bases de Datos -->
-<h4>Bases de Datos</h4>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a>
@@ -38,7 +35,6 @@
 </a>
 
 <!-- Herramientas DevOps -->
-<h4>Herramientas DevOps</h4>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
 </a>
@@ -53,7 +49,6 @@
 </a>
 
 <!-- Kotlin y Android Studio -->
-<h4>Kotlin y Android Studio</h4>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
 </a>
