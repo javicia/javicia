@@ -36,7 +36,7 @@
 
 <!-- Herramientas DevOps -->
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="80" height="40"/> 
 </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
@@ -53,7 +53,7 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
 </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Icon_%282022%29.svg" alt="android studio" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="android studio" width="40" height="40"/> 
 </a>
 
 
