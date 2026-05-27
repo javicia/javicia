@@ -1,56 +1,74 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kw214/kw214/main/Hi.gif" width="30">, I'm Javier García Pérez</h1>
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">
+  Hi 👋, I'm Javier García Pérez
+</h1>
 
-<!-- Java y sus Frameworks -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-</a>
+<h3 align="center">
+  Software Architect | Senior Backend Engineer | Java & Cloud Specialist
+</h3>
 
-<!-- IDEs -->
-<a href="https://eclipse.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse" width="40" height="40"/> 
-</a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="intellij" width="40" height="40"/> 
-</a>
+---
 
-<!-- Bases de Datos -->
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
-</a>
+## 🚀 About Me
 
-<!-- Herramientas DevOps -->
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="background-color: white; border-radius: 5px;"/> 
-</a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-</a>
+- 🏗️ Software Architect specialized in distributed systems and cloud-native architectures
+- ☕ Senior Java Engineer with experience from Java 6 to Java 21
+- 🔥 Strong background in Spring Boot, Kafka, Kubernetes and Event-Driven Architectures
+- ☁️ Experience working with AWS, OpenShift and hybrid cloud environments
+- 🧩 Passionate about Hexagonal Architecture, DDD and scalable microservices
+- 📈 Focused on observability, performance and enterprise architecture
+- 🏦 Experience in banking, retail, public sector and mission-critical systems
 
-<!-- Kotlin y Android Studio -->
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-</a>
+---
 
+## 🛠️ Tech Stack
 
+### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
+</p>
+
+### Architecture & Messaging
+<p>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45" height="45"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" height="45"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 📌 Featured Topics
+
+- Microservices Architecture
+- Event-Driven Systems
+- Distributed Systems
+- Hexagonal Architecture
+- Domain-Driven Design (DDD)
+- Cloud-Native Applications
+- CI/CD & DevSecOps
+- Observability & Monitoring
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/javicia
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building scalable enterprise systems and transforming legacy platforms into modern cloud-native architectures.
